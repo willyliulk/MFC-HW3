@@ -1,0 +1,122 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 產生的 Include 檔案。
+// 由 HW3408420010408420074.rc 使用
+//
+#define IDD_ABOUTBOX                    100
+#define IDR_MAINFRAME                   128
+#define IDR_HW3_408420010_408420074TYPE 130
+#define IDR_MENU_EN                     310
+#define IDR_MENU1                       311
+#define IDR_MENU_CH                     312
+#define ID_FILE_NWE                     32771
+#define ID_FILE_OPEN32772               32772
+#define ID_FILE_SAVE32773               32773
+#define ID_FILE_EXIT                    32774
+#define ID_DRAW_POINT                   32775
+#define ID_DRAW_LINE                    32776
+#define ID_DRAW_ELLIPSE                 32777
+#define ID_DRAW_RECTANGLE               32778
+#define ID_COLOR_RED                    32779
+#define ID_COLOR_DREEN                  32780
+#define ID_COLOR_BLUE                   32781
+#define ID_COLOR_OTHER1                 32782
+#define ID_COLOR_OTHER2                 32783
+#define ID_COLOR_MANUALCOLOR            32784
+#define ID_COLOR_FILLCOLOR              32785
+#define ID_SWITCH_SWITCHCHINESEMENU     32786
+#define ID_SEUP_POINTLINE               32787
+#define ID_POINTLINE_ON                 32788
+#define ID_POINTLINE_OFF                32789
+#define ID_32790                        32790
+#define ID_32791                        32791
+#define ID_32792                        32792
+#define ID_32793                        32793
+#define ID_32794                        32794
+#define ID_32795                        32795
+#define ID_32796                        32796
+#define ID_32797                        32797
+#define ID_32798                        32798
+#define ID_32799                        32799
+#define ID_32800                        32800
+#define ID_32801                        32801
+#define ID_32802                        32802
+#define ID_32803                        32803
+#define ID_32804                        32804
+#define ID_32805                        32805
+#define ID_32806                        32806
+#define ID_32807                        32807
+#define ID_32808                        32808
+#define ID_SWITCH_SWITCHENMENU          32809
+#define ID_DRAW                         32810
+#define ID_COLOR                        32811
+#define ID_COLOR_GREEN                  32812
+#define ID_DRAW_DOTLINE                 32813
+#define ID_32814                        32814
+#define ID_LINE_STRAITLINE              32815
+#define ID_LINE_DOTLINE                 32816
+#define ID_LINE_POLYLINE                32817
+#define ID_DRAW_BOTLINE                 32818
+#define ID_DRAW_POLYLINE                32819
+#define ID_DRAW_POLYGON                 32820
+#define ID_32821                        32821
+#define ID_32822                        32822
+#define ID_SETUP_COLOR                  32823
+#define ID_COLOR_BACKGROUNG             32824
+#define ID_32825                        32825
+#define ID_32826                        32826
+#define ID_FILE_SAVECVS                 32827
+#define ID_FILE_OPENCVS                 32828
+#define ID_32829                        32829
+#define ID_32830                        32830
+#define AFX_IDS_APP_TITLE               0xE000
+#define AFX_IDS_IDLEMESSAGE             0xE001
+#define ID_FILE_CLOSE                   0xE102
+#define ID_FILE_MRU_FILE2               0xE111
+#define ID_FILE_MRU_FILE3               0xE112
+#define ID_FILE_MRU_FILE4               0xE113
+#define ID_FILE_MRU_FILE5               0xE114
+#define ID_FILE_MRU_FILE6               0xE115
+#define ID_FILE_MRU_FILE7               0xE116
+#define ID_FILE_MRU_FILE8               0xE117
+#define ID_FILE_MRU_FILE9               0xE118
+#define ID_FILE_MRU_FILE10              0xE119
+#define ID_FILE_MRU_FILE11              0xE11A
+#define ID_FILE_MRU_FILE12              0xE11B
+#define ID_FILE_MRU_FILE13              0xE11C
+#define ID_FILE_MRU_FILE14              0xE11D
+#define ID_FILE_MRU_FILE15              0xE11E
+#define ID_FILE_MRU_FILE16              0xE11F
+#define ID_EDIT_CLEAR                   0xE120
+#define ID_EDIT_CLEAR_ALL               0xE121
+#define ID_EDIT_FIND                    0xE124
+#define ID_EDIT_REPEAT                  0xE128
+#define ID_EDIT_REPLACE                 0xE129
+#define ID_EDIT_SELECT_ALL              0xE12A
+#define ID_EDIT_REDO                    0xE12C
+#define ID_WINDOW_SPLIT                 0xE135
+#define ID_INDICATOR_EXT                0xE700
+#define ID_INDICATOR_CAPS               0xE701
+#define ID_INDICATOR_NUM                0xE702
+#define ID_INDICATOR_SCRL               0xE703
+#define ID_INDICATOR_OVR                0xE704
+#define ID_INDICATOR_REC                0xE705
+#define AFX_IDS_SCSIZE                  0xEF00
+#define AFX_IDS_SCMOVE                  0xEF01
+#define AFX_IDS_SCMINIMIZE              0xEF02
+#define AFX_IDS_SCMAXIMIZE              0xEF03
+#define AFX_IDS_SCNEXTWINDOW            0xEF04
+#define AFX_IDS_SCPREVWINDOW            0xEF05
+#define AFX_IDS_SCCLOSE                 0xEF06
+#define AFX_IDS_SCRESTORE               0xEF12
+#define AFX_IDS_SCTASKLIST              0xEF13
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        313
+#define _APS_NEXT_COMMAND_VALUE         32831
+#define _APS_NEXT_CONTROL_VALUE         1000
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif
